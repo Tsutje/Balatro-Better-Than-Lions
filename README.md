@@ -19,7 +19,7 @@ This Modpack contains
 - KCVanilla
 - Malverk
 - Myst Blinds
-- NEato Jokers
+- Neato Jokers
 - Pogo Blinds
 - Saturn
 - Sculio
@@ -29,3 +29,16 @@ This Modpack contains
 - Vortex
 
 Again, please feel free to message me (on Discord, primarily.) if you do not agree to have your mod altered and be added in the mod.
+
+
+How to Download :
+
+Make sure to have lovely and Steamodded installed, I have yet to check what versions it can go back to.
+Extract BTL.zip INSIDE the Mod Folder.
+Run The Game.
+
+Known Conflicts :
+
+Yggdrasil crashing the game upon Reloading run
+
+(Speculative) : This Modpack is not built for Talisman in mind.
