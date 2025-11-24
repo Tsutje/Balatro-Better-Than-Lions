@@ -42,3 +42,7 @@ Known Conflicts :
 Yggdrasil crashing the game upon Reloading run
 
 (Speculative) : This Modpack is not built for Talisman in mind.
+
+Known Issues :
+
+Trance Background going away after exiting to main menu
